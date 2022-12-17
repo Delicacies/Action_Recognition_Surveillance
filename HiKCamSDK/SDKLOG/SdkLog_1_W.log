@@ -1,0 +1,3 @@
+[2022-01-08 19:50:07.913][DBG] ID-IP-CHAN[0-192.168.1.65-1] [CGetStreamBase::DoExchange] recv timeout[2], m_bReConnecting[0], maxtimes[6]!
+[2022-01-08 19:50:12.919][DBG] ID-IP-CHAN[0-192.168.1.65-1] [CGetStreamBase::DoExchange] recv timeout[3], m_bReConnecting[0], maxtimes[6]!
+[2022-01-08 19:50:17.926][DBG] ID-IP-CHAN[0-192.168.1.65-1] [CGetStreamBase::DoExchange] recv timeout[4], m_bReConnecting[0], maxtimes[6]!
